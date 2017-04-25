@@ -1,5 +1,6 @@
 # JavaScript Map
 
+
 ## Objectives
 
 1. Implement a `map()` function from scratch
